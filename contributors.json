@@ -1,0 +1,28 @@
+{
+  "profiles": [
+    {
+      "name": "Asmit Malakannawar",
+      "avatarUrl": "https://avatars.githubusercontent.com/Asmit2952",
+      "github": "Asmit2952",
+      "twitter": "Asmit_2952",
+      "linkedin": "asmit-malakannawar",
+      "blogUrl": "https://dev.to/asmit2952"
+    },
+    {
+      "name": "Deepesha Burse",
+      "avatarUrl": "https://avatars.githubusercontent.com/deepeshaburse",
+      "github": "deepeshaburse",
+      "twitter": "3007Burse",
+      "linkedin": "deepeshab",
+      "blogUrl": "https://dev.to/deepeshaburse"
+    },
+    {
+      "name": "Saurabh Kumar",
+      "avatarUrl": "https://avatars.githubusercontent.com/Saurabh-kumar09",
+      "github": "Saurabh-kumar09",
+      "twitter": "Saurabh09_27",
+      "linkedin": "Saurabh Kumar",
+      "blogUrl": "https://medium.com/@saurabh09.ind"
+    }
+  ]
+}
